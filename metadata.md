@@ -4,17 +4,17 @@ solution-title: Troubleshooting
 type: Troubleshooting
 index: true
 git-repo: https://github.com/AdobeDocs/experience-cloud-kcs.pt-BR
-source-git-commit: 0f546139887bd42346c58b8aa0ef76015688601c
+source-git-commit: 2384c7257d7b62f6c3387d15bed9b372901f6b0b
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 85%
+source-wordcount: '126'
+ht-degree: 87%
 
 ---
 
 
 # Metadados para uso interno
 
-O [!DNL metadata.md] arquivo inclui metadados de nível de acordo de recompra que passam para o guia do usuário [!DNL TOC.md] arquivos no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
+A variável [!DNL metadata.md] o arquivo inclui metadados de nível de repositório que passam para o guia do usuário [!DNL TOC.md] arquivos no repositório. Se desejar alterar o conteúdo metadata.md para qualquer guia do usuário, faça isso em qualquer arquivo TOC.md.
 
 | metadata | o que faz |
 |--- |--- |
@@ -28,7 +28,7 @@ O [!DNL metadata.md] arquivo inclui metadados de nível de acordo de recompra qu
 
 No arquivo TOC.md
 
-| metadados | o que faz |
+| metadata | o que faz |
 |--- |--- |
 | user-guide-title | Usado no cabeçalho do artigo como link |
 | user-guide-url | Abre a página helpx hub |
